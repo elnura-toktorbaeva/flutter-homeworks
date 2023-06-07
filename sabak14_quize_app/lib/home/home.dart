@@ -61,7 +61,7 @@ class _HomePageState extends State<HomePage> {
                 ),
                 ),
             ),
-            SizedBox(height: 30),
+            const SizedBox(height: 30),
             Row(
               children: const [
               Icon(Icons.check,
